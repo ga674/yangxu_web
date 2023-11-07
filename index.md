@@ -2,17 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## About Me Shenyankun
 
 I am now an Associate Professor at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China. I got my B.S. degree from Nanjing University of Posts and Telecommunications (NUPT), M.S. degree from Southeast University (SEU) supervised by Prof Xin Geng, and Ph.D. from Nanyang Technological University (NTU) supervised by Prof Jianfei Cai and Prof Hanwang Zhang. 
 
 ## Research Interests
+
 I have wide interest on AI, especially machine learning and deep learning. In the past and future few years, I will focus on the following topics:
+
 - **Computer Vision:** Image Captioning, Vision Reasoning
 - **Machine Learning:** Structural Learning, Causal Inference, Label Distribution Learning
 
 ## Selected Publications
+
 [comment]: <> (TPAMI)
+
 <div class="paper">
 <p><strong>Deconfounded image captioning: A causal retrospect</strong>
 <br />
@@ -26,6 +30,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (TPAMI)
+
 <div class="paper">
 <p><strong>Auto-encoding and Distilling Scene Graphs for Image Captioning</strong>
 <br />
@@ -39,6 +44,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (iccv2021.)
+
 <div class="paper">
 <p><strong>Auto-Parsing Network for Image Captioning and Visual Question Answering</strong>
 <br />
@@ -53,6 +59,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (cvpr2021.)
+
 <div class="paper">
 <p><strong>Causal attention for vision-language tasks</strong>
 <br />
@@ -67,6 +74,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (ACMMM.)
+
 <div class="paper">
 <p><strong>Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning</strong>
 <br />
@@ -81,6 +89,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (iccv2019.)
+
 <div class="paper">
 <p><strong>Learning to collocate neural modules for image captioning</strong>
 <br />
@@ -95,6 +104,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (cvpr2019.)
+
 <div class="paper">
 <p><strong>Auto-encoding scene graphs for image captioning</strong>
 <br />
@@ -109,6 +119,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (ECCV2018.)
+
 <div class="paper">
 <p><strong>Shuffle-then-assemble: learning object-agnostic visual relationship features</strong>
 <br />
@@ -123,6 +134,7 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 [comment]: <> (IJCAI2016.)
+
 <div class="paper">
 <p><strong>Sparsity Conditional Energy Label Distribution Learning for Age Estimation</strong>
 <br />
@@ -136,8 +148,8 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </p>
 </div>
 
-
 [comment]: <> (ICCVW2015.)
+
 <div class="paper">
 <p><strong>Deep label distribution learning for apparent age estimation</strong>
 <br />
@@ -152,10 +164,11 @@ I have wide interest on AI, especially machine learning and deep learning. In th
 </div>
 
 ## Misc
+
 When I have some available time, I usually read, swim, and run. I have ubiquitous interest on different topics of the books, including Computer Science, Philosophy, History, Politics, Literature, and Detective Fiction.
 
 Some recommended books:
+
 - **Research:** 《How To Read a Book》《Style, Toward Clarity and Grace》《The Craft of Research》
 - **Philosophy:** 《The Book of Why》 《The Structure of Scientific Revolutions》《The Big Questions: A Short Introduction to Philosophy》
 - **Literature:** 《百年孤独》《战争与和平》《三国演义》
-
